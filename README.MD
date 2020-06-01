@@ -21,7 +21,7 @@ Download the zip or clone the code from below repository:
 ###### **https://github.com/arunaperam/CanvasTool.git**
 
 Simply run: 
-###### **java -jar target/CanvasTool-1.0-SNAPSHOT.jar**
+###### **java -jar target/CanvasTool-1.0-SNAPSHOT-jar-with-dependencies.jar**
 
 Then follow below commands:
 
@@ -55,7 +55,7 @@ this  command creates Jar in target folder.
 
 2)Run the command :  
 
-###### **java -jar target/CanvasTool-1.0-SNAPSHOT.jar**
+###### **java -jar target/CanvasTool-1.0-SNAPSHOT-jar-with-dependencies.jar**
 
 
 ### ****`From IDE`****
