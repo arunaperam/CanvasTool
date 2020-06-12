@@ -4,9 +4,9 @@
 #### **`Description`:**
 
 This Tool works as follows:
- 1. Creates a  canvas of specified width and height
+ 1. Creates a canvas of specified width and height
  2. Draws Rectangle, horizontal and vertical lines using text based commands
- 3. Quit the program on instruction.
+ 3. Quit the program on given instructions.
  
 #### `Instructions to Build and Run the code`:
 
